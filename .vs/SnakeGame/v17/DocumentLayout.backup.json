@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seqjo\\Desktop\\GitHub-repos\\WPF-snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8027F18-2CDB-4684-91EE-51E06044DEA8}|SnakeGame\\SnakeGame.csproj|c:\\users\\seqjo\\desktop\\github-repos\\wpf-snake\\snakegame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8027F18-2CDB-4684-91EE-51E06044DEA8}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8027F18-2CDB-4684-91EE-51E06044DEA8}|SnakeGame\\SnakeGame.csproj|c:\\users\\seqjo\\desktop\\github-repos\\wpf-snake\\snakegame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8027F18-2CDB-4684-91EE-51E06044DEA8}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\seqjo\\Desktop\\GitHub-repos\\WPF-snake\\SnakeGame\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SnakeGame\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\seqjo\\Desktop\\GitHub-repos\\WPF-snake\\SnakeGame\\MainWindow.xaml",
+              "RelativeToolTip": "SnakeGame\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T23:23:01.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\seqjo\\Desktop\\GitHub-repos\\WPF-snake\\SnakeGame\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\seqjo\\Desktop\\GitHub-repos\\WPF-snake\\SnakeGame\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "SnakeGame\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAYwKkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:22:57.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
